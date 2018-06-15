@@ -10,6 +10,7 @@ import org.apache.http.message.BasicNameValuePair;
 import org.testng.annotations.Test;
 import ua.marchenko.a_rest_tests_bugify_apache_client.helpers.HttpHelper;
 import ua.marchenko.a_rest_tests_bugify_apache_client.helpers.JsonHelper;
+import ua.marchenko.a_rest_tests_bugify_apache_client.model_objects.Issue;
 
 import java.io.IOException;
 import java.util.Set;

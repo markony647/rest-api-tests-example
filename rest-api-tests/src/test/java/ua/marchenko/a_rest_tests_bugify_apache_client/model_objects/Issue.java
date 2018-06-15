@@ -1,4 +1,4 @@
-package ua.marchenko.a_rest_tests_bugify_apache_client;
+package ua.marchenko.a_rest_tests_bugify_apache_client.model_objects;
 
 import java.util.Objects;
 
